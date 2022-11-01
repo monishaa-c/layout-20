@@ -1,0 +1,109 @@
+.header .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.header
+{
+	height:130px;
+	background-color:lightgrey;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.header .header-fc .box
+{
+	height:100px;
+	width:730px;
+	background-color:blue;
+	margin-top:50px;
+}
+.body .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.body
+{
+	height:755px;
+	background-color:lightgrey;
+}
+.body .body-fc
+{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.body .body-fc .boxa
+{
+	height:450px;
+	width:350px;
+	background-color:white;
+	margin-top:150px;
+}
+.body .body-fc .boxa .text
+{
+	height:200px;
+	width:350px;
+	background-color:yellow;
+	margin-top:200px;
+}
+.body .body-fc .boxb
+{
+	height:450px;
+	width:350px;
+	background-color:white;
+	margin-top:150px;
+}
+.body .body-fc .boxb .text
+{
+	height:200px;
+	width:350px;
+	background-color:yellow;
+	margin-top:200px;
+}
+.body .body-fc .boxc
+{
+	height:450px;
+	width:350px;
+	background-color:white;
+	margin-top:150px;
+}
+.body .body-fc .boxc .text
+{
+	height:200px;
+	width:350px;
+	background-color:yellow;
+	margin-top:200px;
+}
+.body .body-fc .text
+{
+	height:70px;
+	width:1200px;
+	background-color:blue;
+	margin-top:30px;
+}
+.website .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.website
+{
+background-color: black;
+height:120px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.website .website-fc .box
+{
+	width:300px;
+	height:90px;
+	background-color:white;
+	margin-top:15px;
+}
